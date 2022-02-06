@@ -1,1 +1,1 @@
-pword
+self.ids.quotes.text = random.choice(quotes)
